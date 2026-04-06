@@ -35,7 +35,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/AyodhyaSankalpa/Laravel-Assistant.git
    cd ai-chatbot
    ```
 
