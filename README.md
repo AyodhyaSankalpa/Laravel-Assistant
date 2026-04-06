@@ -19,7 +19,7 @@
 
 - **Framework**: [Laravel 13.x](https://laravel.com)
 - **Frontend**: [Livewire 4](https://livewire.laravel.com), [Flux UI](https://fluxui.dev), [Tailwind CSS](https://tailwindcss.com)
-- **AI Backend**: [Google Gemini Pro](https://ai.google.dev/) via [Laravel AI SDK](https://github.com/laravel/ai)
+- **AI Backend**: [Google Gemini API](https://aistudio.google.com/) via [Laravel AI SDK](https://github.com/laravel/ai)
 - **Authentication**: [Laravel Fortify](https://laravel.com/docs/fortify)
 
 ## 🚀 Getting Started
